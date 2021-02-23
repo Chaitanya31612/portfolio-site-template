@@ -1,7 +1,7 @@
 # Portfolio Website template
 
 You may want a modern looking website, well here it is. A simple yet elegant looking website template just for you my friend.
-![Website Link](https://chaitanya31612.github.io/portfolio-site-template)
+[Link](https://chaitanya31612.github.io/portfolio-site-template)
 
 ## Home Page
 ![home](https://user-images.githubusercontent.com/54992097/108881787-b659b080-7629-11eb-9870-f4a16f613cc0.png)
