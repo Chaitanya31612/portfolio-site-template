@@ -1,7 +1,7 @@
 # Portfolio Website template
 
-You may want a modern looking website, well here it is. A simple yet elegant looking website template just for you my friend.
-[Link](https://chaitanya31612.github.io/portfolio-site-template)
+You may want a modern looking website, well here it is. A simple yet elegant looking website template just for you my friend.<br>
+[Demo](https://chaitanya31612.github.io/portfolio-site-template)
 
 ## Home Page
 ![home](https://user-images.githubusercontent.com/54992097/108881787-b659b080-7629-11eb-9870-f4a16f613cc0.png)
@@ -58,7 +58,11 @@ git pull upstream master
 git checkout -b <your_branch_name>
 ```
 
-**8.** Perform your desired changes to the code base.
+**8.** Perform your desired changes to the code base after doing.
+```
+npm install
+npm start
+```
 
 **9.** Track your changes:heavy_check_mark: .
 
