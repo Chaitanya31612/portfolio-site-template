@@ -13,7 +13,7 @@ You may want a modern looking website, well here it is. A simple yet elegant loo
 ![experience](https://user-images.githubusercontent.com/54992097/108881822-bf4a8200-7629-11eb-9ce7-90185baed530.png)
 
 ## Projects
-![projects](https://user-images.githubusercontent.com/54992097/108881834-c2de0900-7629-11eb-9086-18ddd3ab3886.png)
+![projects](https://user-images.githubusercontent.com/54992097/108883304-4a784780-762b-11eb-97ec-143f95fa5d96.png)
 
 Contact
 ![contact](https://user-images.githubusercontent.com/54992097/108881803-bbb6fb00-7629-11eb-8c0c-717371edabd9.png)
@@ -87,11 +87,11 @@ git push -u origin <your_branch_name>
 **14.** Click on `Create Pull Request`.
 
 
-**15** Voila :exclamation: You have made a PR :boom: . Sit back patiently and relax while the project maintainers review your PR. Please understand at times the time can vary from a few hours to a few days
+**15** Hurray :exclamation: You have made a PR :boom: .
 
-<br><br>
+<br>
 
-#### Contributors👩‍💻👨‍💻 :
+### Contributors👩‍💻👨‍💻 :
 <a href="https://github.com/smaranjitghose/awesome-portfolio-websites/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=chaitanya31612/portfolio-site-template" />
 </a>
