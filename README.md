@@ -18,10 +18,8 @@ You may want a modern looking website, well here it is. A simple yet elegant loo
 Contact
 ![contact](https://user-images.githubusercontent.com/54992097/108881803-bbb6fb00-7629-11eb-8c0c-717371edabd9.png)
 
-
+<br><br>
 ## Contribution Guidelines🏗
-
-Are we missing any of your favorite features, which you think you can add to it❓ We invite you to contribute to this project and improve it further
 
 To start contributing, follow the below guidelines: 
 
@@ -91,7 +89,7 @@ git push -u origin <your_branch_name>
 
 **15** Voila :exclamation: You have made a PR :boom: . Sit back patiently and relax while the project maintainers review your PR. Please understand at times the time can vary from a few hours to a few days
 
-
+<br><br>
 
 #### Contributors👩‍💻👨‍💻 :
 <a href="https://github.com/smaranjitghose/awesome-portfolio-websites/graphs/contributors">
