@@ -98,6 +98,6 @@ git push -u origin <your_branch_name>
 <br>
 
 ### Contributors👩‍💻👨‍💻 :
-<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/graphs/contributors">
+<a href="https://github.com/Chaitanya31612/portfolio-site-template/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=chaitanya31612/portfolio-site-template" />
 </a>
