@@ -28,6 +28,62 @@ $(function(){
 
 });
 
+
+$(function(){
+  
+  $("#js-hamburger").on("click", function(){
+    $(this).toggleClass('is-active');
+    $(".nav__links").toggleClass('visible');
+    $(".nav__title").toggleClass('not-active');
+  });
+
+});
+
+if (!localStorage.getItem("theme")) {
+  localStorage.setItem("theme", "light");  
+}
+
+
+const checkTheme = () => {
+  if (localStorage.getItem("theme") == "dark") {
+    DarkReader.enable({
+      brightness: 100,
+      contrast: 90,
+      sepia: 10
+    });
+
+    document.getElementById("white").setAttribute('style', 'background:white !important');
+  } else if (localStorage.getItem("theme") == "light") {
+    document.getElementById("black").setAttribute('style', 'background:black !important');
+    DarkReader.disable();
+  }
+}
+
+$(function(){
+
+  $(".toggle--dark").on("click", function () {
+    DarkReader.enable({
+        brightness: 100,
+        contrast: 90,
+        sepia: 10
+    });
+
+    document.getElementById("white").setAttribute('style', 'background:white !important');
+    
+    localStorage.setItem("theme", "dark");
+  });
+
+});
+
+$(function(){
+  
+  $(".toggle--light").on("click", function(){
+    DarkReader.disable();
+    localStorage.setItem("theme", "light");
+  });
+
+});
+
 //dark mode toggle
 // $(function(){
   
